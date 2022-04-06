@@ -1,0 +1,273 @@
+<places>
+    <place>
+        <name>Semipalatinsk Nuclear Test Site</name>
+        <location>
+            <continent>Asia</continent>
+            <country>Kazajistán</country>
+            <coordinates>50°35'26.4"N 77°50'50.3"E</coordinates>
+        </location>
+        <description>Sitio de pruebas nucleares soviético</description>
+        <reasons>
+            <reason>Es un antiguo lugar de pruebas soviético</reason>
+            <reason>Es visitable</reason>
+            <reason>Está abandonado</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3195.8858261650707!2d77.84513111594764!3d50.59065698513311!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x42f5ad2d5ad8cecd%3A0x53ed8eb9687ebb94!2sSemipalatinsk%20Nuclear%20Test%20Site!5e1!3m2!1ses!2ses!4v1648211813067!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>QARSOONI</name>
+        <location>
+            <continent>África</continent>
+            <country>Somalia</country>
+            <coordinates>5.351241770662222, 45.762832297733596</coordinates>
+        </location>
+        <description>Parque acuático inexistente</description>
+        <reasons>
+            <reason>Aparente parque acuático</reason>
+            <reason>Mitad de la sabana</reason>
+            <reason>El satélite no muestra nada</reason>
+        </reasons>
+        <population>2</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4794.847032757469!2d45.76064361522577!3d5.351172337162625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3d633d488e503639%3A0x8f181e6eae997685!2sQARSOONI!5e1!3m2!1ses!2ses!4v1648455645266!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>West Suburbs Elementary School</name>
+        <location>
+            <continent>Ártico</continent>
+            <country>Groenlandia</country>
+            <coordinates>70.41820516291773, -21.994065820077278</coordinates>
+        </location>
+        <description>Aparente escuela de primaria</description>
+        <reasons>
+            <reason>Escuela de primaria</reason>
+            <reason>mitad del mar ártico</reason>
+            <reason>Sin civilización en kilómetros</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6456.126702678179!2d-22.002005158586044!3d70.41828427021441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4f3b4538bc2f8185%3A0xf2a4cbc54b6a547e!2sWest%20Suburbs%20Elementary%20School%2C%20Groenlandia!5e1!3m2!1ses!2ses!4v1648455981851!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Base Militar de misiles rusos</name>
+        <location>
+            <continent>Europa</continent>
+            <country>Rusia</country>
+            <coordinates>55.338308540917055, 83.00937785156098</coordinates>
+        </location>
+        <description>Base de misiles rusa</description>
+        <reasons>
+            <reason>Base sin identificar</reason>
+            <reason>ICBMs a la vista</reason>
+            <reason>Cerca de Novosibirsk</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1003988.4568881266!2d81.78972226104115!3d54.84149362937495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8cd4caaa27daeeba!2s55%C2%B018&#39;18.5%22N%2083%C2%B001&#39;11.0%22E%2C%20(55.305128%2C%2083.019724)%2C%20Rusia!5e1!3m2!1ses!2ses!4v1648457466759!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Nagurskoye Military Base</name>
+        <location>
+            <continent>Ártico</continent>
+            <country>Rusia</country>
+            <coordinates>80.80787477387277, 47.660773201252184</coordinates>
+        </location>
+        <description>Base militar rusa ártica</description>
+        <reasons>
+            <reason>Base militar nevada</reason>
+            <reason>En el ártico</reason>
+            <reason>Escudo nuclear ruso</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6154.578802757732!2d47.64981063250141!3d80.80770299999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3442449a7981f654!2sNagurskoye%20Air%20Base!5e1!3m2!1ses!2ses!4v1648457757845!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Estación de Investigación Coreana</name>
+        <location>
+            <continent>Antártico</continent>
+            <country>Corea del Sur</country>
+            <coordinates>-62.22318128401731, -58.787927614387726</coordinates>
+        </location>
+        <description>Base de investigaciones</description>
+        <reasons>
+            <reason>Base de investigación coreana</reason>
+            <reason>Aparentemente inexistente</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2244.3101176177597!2d-58.79014848274124!3d-62.22328129999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbc73f1280be3bcd5%3A0x6014d51b66c3c3a3!2sKorean%20Research%20Station!5e1!3m2!1ses!2ses!4v1648457973854!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Pyramiden</name>
+        <location>
+            <continent>Ártico</continent>
+            <country>Noruega</country>
+            <coordinates>79.13144153904625, 16.23115799486047</coordinates>
+        </location>
+        <description>Asentamiento minero soviético</description>
+        <reasons>
+            <reason>Asentamiento soviético</reason>
+            <reason>Minería de carbon en el ártico</reason>
+            <reason>Pueblo casi fantasma</reason>
+        </reasons>
+        <population>6</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23463633.038663603!2d-18.944641456565066!3d65.13061995323042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x459d998a5898a749%3A0xbb252eafca66d80c!2sPyramiden%209170%2C%20Svalbard%20y%20Jan%20Mayen!5e1!3m2!1ses!2ses!4v1648458284687!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Isla Tromelin</name>
+        <location>
+            <continent>África</continent>
+            <country>Mauricio</country>
+            <coordinates>-15.703795426631524, 54.502075791116035</coordinates>
+        </location>
+        <description>Isla enana en mitad del mar</description>
+        <reasons>
+            <reason>Isla con dos casas y un aeropuerto</reason>
+            <reason>No hay nada más</reason>
+            <reason>0.8km2 de area</reason>
+        </reasons>
+        <population>15</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3343462.999502657!2d51.32475645020768!3d-16.498679815773496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x223214bebf13fbd7%3A0x7691448fcb61642d!2sIsla%20Tromelin!5e1!3m2!1ses!2ses!4v1648459310466!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Pentagrama de Lisakovsk</name>
+        <location>
+            <continent>Asia</continent>
+            <country>Kazajistán</country>
+            <coordinates>52.479939328256044, 62.18579503039796</coordinates>
+        </location>
+        <description>Geoglifo de pentagrama</description>
+        <reasons>
+            <reason>Geoglifo de origen desconocido</reason>
+            <reason>No se sabe con seguridad cómo apareció</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2961.5099311790054!2d62.18370021611313!3d52.479916679806664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd16b5453643deeba!2zNTLCsDI4JzQ3LjciTiA2MsKwMTEnMDkuMiJF!5e1!3m2!1ses!2ses!4v1648460311767!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Aeropuerto de pruebas de Tonopah</name>
+        <location>
+            <continent>América</continent>
+            <country>EEUU</country>
+            <coordinates>37.79484267255055, -116.77154458666706</coordinates>
+        </location>
+        <description>Aeropuerto militar</description>
+        <reasons>
+            <reason>Aeropuerto de pruebas nucleares</reason>
+            <reason>Cráteres de pruebas visibles</reason>
+            <reason>Aún en uso</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12924.438585902035!2d-116.77905075689128!3d37.79504228846646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80b96a95da3957cb%3A0xb6c327d3d2d7f810!2sAeropuerto%20del%20Campo%20de%20pruebas%20de%20Tonopah!5e1!3m2!1ses!2ses!4v1648460452254!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Bunker de Oreo</name>
+        <location>
+            <continent>Ártico</continent>
+            <country>Groenlandia</country>
+            <coordinates>78.1495294404655, 16.034028843590644</coordinates>
+        </location>
+        <description>Bunker de Oreo con su receta</description>
+        <reasons>
+            <reason>Bunker en el ártico lleno de galletas</reason>
+            <reason>Posee la receta de las oreo</reason>
+            <reason>Permanecerá cerrado para siempre</reason>
+        </reasons>
+        <population>galletas</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d998.5758643146492!2d16.031786516995997!3d78.14949639159825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x459c4d3c844de047%3A0x23232c1e3da117d7!2sOREO%20DOOMSDAY%20VAULT!5e1!3m2!1ses!2ses!4v1648461916184!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Campo de Concentración de Yodok</name>
+        <location>
+            <continent>Asia</continent>
+            <country>Corea del Norte</country>
+            <coordinates>39.67426653643024, 126.85140212701475</coordinates>
+        </location>
+        <description>Campo de Concentración</description>
+        <reasons>
+            <reason>Campo de presos políticos</reason>
+            <reason>Corea niega su existencia</reason>
+            <reason>A una hora de la capital</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3742.7219745014127!2d126.8464917917915!3d39.673308620482224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5fd41ce2d92913f5%3A0x3f4f46d8ffdaa71a!2sCampo%20de%20concentraci%C3%B3n%20de%20Yodok!5e1!3m2!1ses!2ses!4v1648462225598!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Monumento a la paz en Hiroshima</name>
+        <location>
+            <continent>Asia</continent>
+            <country>Japón</country>
+            <coordinates>34.39549608296004, 132.4535968480072</coordinates>
+        </location>
+        <description>Edificio destruído en la explosión de Hirsohima</description>
+        <reasons>
+            <reason>Edificio dejado intacto tras la explosión</reason>
+            <reason>Lugar exacto de la detonación</reason>
+            <reason>Símbolo de algo que no debe volver a ocurrir</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d250.7755079982635!2d132.45346005535612!3d34.395440751793416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x355aa20cdb2780a9%3A0x34e6677ae0c6c096!2sMonumento%20de%20la%20Paz%20de%20Hiroshima!5e1!3m2!1ses!2ses!4v1648462305629!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Fort Carroll</name>
+        <location>
+            <continent>América</continent>
+            <country>EEUU</country>
+            <coordinates>39.21525684741065, -76.5190299033294</coordinates>
+        </location>
+        <description>Instalación militar abandonada</description>
+        <reasons>
+            <reason>Forma hexagonal</reason>
+            <reason>Base militar flotante</reason>
+            <reason>Cubierta de vegetación</reason>
+            <reason>Llena de fauna marina</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3771.4730312930697!2d-76.51891188614233!3d39.214729005088124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c801c74f615f01%3A0x9355399ebb14ef41!2sFort%20Carrol%20Maryland%2C%20Edgemere%2C%20MD%2021219%2C%20EE.%20UU.!5e1!3m2!1ses!2ses!4v1648463339160!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Pirámide de Dakota del Norte</name>
+        <location>
+            <continent>América</continent>
+            <country>EEUU</country>
+            <coordinates>48.58955942568276, -98.35672868624776</coordinates>
+        </location>
+        <description>Antigua base de radares estadunidense</description>
+        <reasons>
+            <reason>Estructura piramidal de uso desconocido en el centro</reason>
+            <reason>Abandonada por algún motivo</reason>
+        </reasons>
+        <population>32</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2354.4928059269405!2d-98.35996050646911!3d48.58948666412624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52c36f9c6035dd95%3A0xbb6ee3206eebb535!2sThe%20Pyramid%20of%20North%20Dakota!5e1!3m2!1ses!2ses!4v1648626071660!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Dolphin Bay Dream Water Park</name>
+        <location>
+            <continent>Asia</continent>
+            <country>China</country>
+            <coordinates>27.66078788320695, 120.67680814906205</coordinates>
+        </location>
+        <description>Parque acuático abandonado en China</description>
+        <reasons>
+            <reason>Parque abandonado desde 2014</reason>
+            <reason>Nunca se llegó a terminar</reason>
+            <reason>La compañía cayó en bancarrota</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1874.6479422539733!2d120.67725021919463!3d27.660981658662465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x344590d20fd2a217%3A0xbf71bbdedbf8fd5!2sPublic%20Toilet!5e1!3m2!1ses!2ses!4v1648628226386!5m2!1ses!2ses</link>
+    </place>
+    <place>
+        <name>Satsop Nuclear Power Plant</name>
+        <location>
+            <continent>América</continent>
+            <country>EEUU</country>
+            <coordinates>46.96182882552641, -123.46745815988854</coordinates>
+        </location>
+        <description>Central nuclear abandonada</description>
+        <reasons>
+            <reason>Sin acabar</reason>
+            <reason>Se abandonó el proyecto en 1980</reason>
+            <reason>Se pueden ver aún las torres</reason>
+        </reasons>
+        <population>0</population>
+        <link>https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.6646432779366!2d-123.47018328414441!3d46.96162014030134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54922b94f5ff9e31%3A0x8a108aba7feb7724!2sSatsop%20Nuclear%20Power%20Plant!5e1!3m2!1ses!2ses!4v1648628738544!5m2!1ses!2ses</link>
+    </place>
+   
+</places>
